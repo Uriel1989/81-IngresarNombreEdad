@@ -1,0 +1,15 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\bin\Debug\net5.0\81-IngresarNombreEdad.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\bin\Debug\net5.0\81-IngresarNombreEdad.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\bin\Debug\net5.0\81-IngresarNombreEdad.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\bin\Debug\net5.0\81-IngresarNombreEdad.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\bin\Debug\net5.0\81-IngresarNombreEdad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\bin\Debug\net5.0\ref\81-IngresarNombreEdad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\bin\Debug\net5.0\81-IngresarNombreEdad.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\81-IngresarNombreEdad.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\81-IngresarNombreEdad.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\81-IngresarNombreEdad.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\81-IngresarNombreEdad.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\81-IngresarNombreEdad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\ref\81-IngresarNombreEdad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\81-IngresarNombreEdad.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\81-IngresarNombreEdad\obj\Debug\net5.0\81-IngresarNombreEdad.genruntimeconfig.cache
